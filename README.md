@@ -6,5 +6,5 @@
 模型在model文件夹中。  
 参数在config.py中可以根据需求调整模型参数和训练数据文件地址。  
 predict.py 预测。  
-data数据中gushi文件夹有导入数据格式的示范，text和train的格式相同。  
-data数据中tag是bio标签类型，可以在参数中修改导入tag的数量。
+data数据中gushi文件夹train有导入数据格式的示范，text和train的格式相同。  
+data数据中tag是bio标签类型。
