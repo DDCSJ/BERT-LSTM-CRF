@@ -1,0 +1,6 @@
+<pad>
+B-Enconic
+I-Enconic
+O
+<start>
+<eos>
